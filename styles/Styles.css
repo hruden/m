@@ -218,15 +218,15 @@ body {
 .Sidebar {
   background-color: #1e2939;
   padding: 15px;
-  width: 330px;
+  width: 230px;
   display: flex;
   flex-direction: column;
 }
 .photo {
   width: 230px;
   margin-bottom: 10px;
-  padding-left: 50px;
-  padding-right: 50px;
+  /* padding-left: 50px;
+  padding-right: 50px; */
 }
 .photo img {
   width: 100%;
