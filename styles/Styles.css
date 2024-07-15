@@ -15,7 +15,6 @@ body {
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
   padding: 30px;
 }
-/* aboute styles */
 .aboute {
   margin-bottom: 40px;
 }
@@ -41,23 +40,9 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #303030;
-  /* width: 400px; */
   margin: 0;
   margin-bottom: 10px;
 }
-/* .project-name {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.project-name h3 {
-  margin: 0;
-} */
-/* pojekts styles */
-
-/* .Projects {
-  margin-bottom: 50px;
-} */
 .title {
   font-style: normal;
   font-weight: 700;
@@ -68,70 +53,6 @@ body {
   margin-top: 0;
   border-bottom: 2px solid #000000;
 }
-/* .projects-list {
-  padding: 0;
-  margin: 0;
-}
-.project-item {
-  display: block;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 24px;
-  color: #000000;
-} */
-/* .project-item:nth-child(n + 4) {
-  display: none;
-} */
-
-/* .project-link {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 24px;
-  color: #000000;
-}
-.project-languages {
-  margin: 0;
-  margin-bottom: 10px;
-}
-.project {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  color: #595959;
-}
-.project-link {
-  margin-left: 10px;
-}
-.project-link:hover, .project-link:focus{
-  color: #fb6d3a;
-}
-.projekt-breaket {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 24px;
-  color: #000000;
-}
-.project-name {
-  margin: 0;
-}
-#showMoreButton {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 24px;
-  color: #000000;
-  border: none;
-  cursor: pointer;
-  background-color: transparent;
-  text-decoration: underline;
-}
-#showMoreButton:hover, #showMoreButton:focus{
-    color: #fb6d3a;
-} */
 /* work styles */
 
 .work-position {
@@ -251,7 +172,6 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  /* text-decoration: none; */
   display: flex;
   gap: 10px;
   align-items: center;
@@ -264,8 +184,6 @@ body {
 }
 .soc-link:hover .soc-icon {
   fill: #fb6d3a;
-  /* stroke: #FB6D3A;
-    color: #FB6D3A; */
 }
 
 .tech-skills {
